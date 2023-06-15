@@ -1,0 +1,7 @@
+@mixin devices($bp) {
+	@if $bp == dt {
+		@media (min-width: 576px) {
+			@content;
+		}
+	}
+}

@@ -1,0 +1,26 @@
+html {
+	font-family: "Inter", sans-serif;
+}
+
+.container {
+	padding: 0 1.0625rem;
+	@include devices(dt) {
+		padding: 0 8rem;
+	}
+}
+
+.hide-desktop {
+	@include devices(dt) {
+		display: none;
+	}
+}
+
+.hide-mobile {
+	display: none;
+}
+
+.show-desktop {
+	@include devices(dt) {
+		display: block;
+	}
+}
