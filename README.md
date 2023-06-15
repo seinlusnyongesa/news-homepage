@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./asets/images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://github.com/seinlusnyongesa/news-homepage)
+- Live Site URL: [Live Site](https://seinlusnyongesa.github.io/news-homepage/)
 
 ## My process
 
